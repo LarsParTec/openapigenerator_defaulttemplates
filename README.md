@@ -1,7 +1,7 @@
 # test OpenaAPI Generator
 
 The `generate.sh` script is generating Python server code from the pet store API specification.\
-Both `yaml` speacs and `mustache` templates are from the `openapi-generator` repository as submodule.
+Both `yaml` specs and `mustache` templates are from the `openapi-generator` repository as submodule.
 
 ## test
 
