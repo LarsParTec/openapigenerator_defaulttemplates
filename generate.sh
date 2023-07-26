@@ -18,5 +18,5 @@ openapi-generator generate \
     -g python-fastapi \
     -i openapi-generator/modules/openapi-generator/src/test/resources/3_0/petstore.yaml \
     -o generated \
-    --api-package mypetstore
-    # -t openapi-generator/modules/openapi-generator/src/main/resources/python-fastapi/ 
+    --api-package mypetstore \
+    -t openapi-generator/modules/openapi-generator/src/main/resources/python-fastapi/ 
